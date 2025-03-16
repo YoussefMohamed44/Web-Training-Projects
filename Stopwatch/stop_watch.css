@@ -31,6 +31,7 @@ h1{
     color: white;
     border-radius: 14px;
     transition: background-color 0.5s ease;
+    cursor: pointer;
 }
 #start{
     background-color: hsl(120, 99%, 45%);
