@@ -1,0 +1,36 @@
+#temp_div{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    margin-top: 180px;
+    background-color: rgb(130, 172, 89);
+    border-radius: 18px;
+    padding: 18px;
+    box-shadow: 9px 9px 14px hsla(0, 0%, 0%, 0.572);
+}
+#temp_con{
+    color: hsl(269, 100%, 40%);
+}
+#temp_box{
+    text-align: center;
+    margin-bottom: 18px;
+    font-size: 1.2em;
+    border-radius: 18px;
+}
+label{
+    font-size: 1.4em;
+}
+button{
+    font-size: 1.4em;
+    background-color: hsl(0, 100%, 61%);
+    color: white;
+    border-radius: 18px;
+    margin-top: 18px;
+    padding: 10px;
+    text-align: center;
+}
+#result{
+    font-size: 1.4em;
+    color: white;
+}
